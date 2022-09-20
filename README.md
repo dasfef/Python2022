@@ -21,3 +21,7 @@ KoreaIT
 [ 2022-09-19 ]
  - class 의 기본 개념을 학습
  - class 를 활용하여 student class의 속성과 메소드를 구성하는 연습을 했다
+
+[ 2022-09-20 ]
+ - class 를 응용하여 student class 를 file 읽기 기능을 활용할 수 있다
+ - file 에서 읽어 온 데이터를 활용하여 여러가지로 응용할 수 있다
