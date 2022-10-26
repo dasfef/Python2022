@@ -1,0 +1,14 @@
+1) pop up the CMD
+2) pip install pyqt5
+3) pip install pyqt5 -tools
+4) pip install pyside2
+
+===========================
+🍄 qt5 design -> py file
+1️⃣ python -m PyQt5.uic.pyuic -x hello.ui -o hello.py
+2️⃣ create batch file : python -m PyQt5.uic.pyuic -x%1 -o%2
+=> CMD command
+=> convui(batch file name) hello.ui hello.py
+=> command execute
+=> python -m PyQt5.uic.pyuic -x hello.ui -o hello.py : FINISH
+
